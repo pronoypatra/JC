@@ -2,5 +2,5 @@
 
 ## Instructions to run the website:
 
-### Frontend: npm run dev
-### Backend: nodemon server.js
+### Frontend: cd frontendt -> npm run dev 
+### Backend: nodemon server.js (Not yet developed)
